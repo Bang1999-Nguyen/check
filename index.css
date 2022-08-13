@@ -3,5 +3,6 @@ body{
 }
 p{
     color:white;
-    font-size:70px
+    font-size:70px;
+    font-weight: bold;
 }
